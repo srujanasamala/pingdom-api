@@ -1,0 +1,3 @@
+Name,Type,HostName
+Check1,http,www.metservice.co.nz
+Check2,http,www.google.co.nz
